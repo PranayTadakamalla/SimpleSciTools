@@ -65,7 +65,7 @@ python file_name.py
 For example, to run the scientific calculator script, use:
 
 ```bash
-python scientific_calculator.py
+python Scientific_Calculator.py
 ```
 
 ---
