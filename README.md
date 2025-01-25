@@ -67,7 +67,6 @@ For example, to run the scientific calculator script, use:
 ```bash
 python Scientific_Calculator.py
 ```
-
 ---
 
 ## Features
@@ -89,4 +88,3 @@ Tadakamalla Sai Pranay
 GitHub: [PranayTadakamalla](https://github.com/PranayTadakamalla)
 
 LinkedIn: [Sai Pranay Tadakamalla](https://in.linkedin.com/in/sai-pranay-tadakamalla-7570bb1a6)
-```
